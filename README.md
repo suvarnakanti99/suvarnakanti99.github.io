@@ -8,7 +8,7 @@
 
 **Email**: suvarnrk@mail.uc.edu
 
-![Ruthvik Suvarnakanti](images/headshot.jpeg)
+![Ruthvik Suvarnakanti](images/headshot.JPEG){ width=150px height=150px }
 
 
 ## Individual Project 1 - Professional Profile Website
