@@ -10931,7 +10931,7 @@ p.lead {
   justify-content: center;
   height: 3.5rem;
   width: 3.5rem;
-  background-color: #007bff;
+  background-color: #32cd32;
   color: #000000;
   border-radius: 100%;
   font-size: 1.5rem;
@@ -10956,6 +10956,7 @@ section.resume-section {
   padding-top: 5rem;
   padding-bottom: 5rem;
   max-width: 75rem;
+  font-family:system-ui;
 }
 section.resume-section .resume-section-content {
   width: 100%;
