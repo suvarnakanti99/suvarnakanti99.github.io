@@ -24,6 +24,9 @@ Link to the repository:
 
 I developed my personal portfolio by customizing a Bootstrap template to meet project requirements. It showcases my professional profile, including my name, headshot, contact details, educational background, work experiences, and skills. Additionally, I added a link to a new HTML page to present completed Hackathons and Labs from the WAPH course. This portfolio serves as a comprehensive overview of my qualifications, experiences, and achievements in web development. Through strategic customization and addition of relevant content, I aim to provide visitors with a clear understanding of my capabilities and accomplishments.
 
+Link to Personal Portfolio:
+[https://suvarnrk.github.io/index.html#waph](https://suvarnrk.github.io/index.html#waph)
+
 \pagebreak
 
 The below source code displays the information and navigation bar information , they include information about person, education, experiences, skills, certifications, resume and link to WAPH course work.
