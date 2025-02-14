@@ -1,12 +1,11 @@
 ## My Portfolio
 
-## Student
 
 **Name**: Ruthvik Suvarnakanti
 
-**Email**: suvarnrk@mail.uc.edu
+**Email**: ruthviksuvarnakanti@gmail.com
 
-![Ruthvik Suvarnakanti](images/headshot.JPEG){ width=150px height=150px }
+![Ruthvik Suvarnakanti](images/Pro_headshot.jpg){ width=150px height=150px }
 
 
 ## Individual Project 1 - Professional Profile Website
@@ -16,7 +15,7 @@
 Complementing the technical requirements, a choice was made to adopt an open-source Bootstrap framework for streamlined design and layout development. Additionally, the inclusion of Google Analytics page tracker offers valuable insights into user engagement metrics, facilitating continuous optimization efforts. Through meticulous adherence to both technical and non-technical stipulations, the deployed website on GitHub Pages emerges as a polished showcase of skills and expertise, delivering an immersive and informative experience to its audience.
 
 Link to the repository:
-[https://github.com/suvarnrk/suvarnrk.github.io/blob/main/README.md](https://github.com/suvarnrk/suvarnrk.github.io/blob/main/README.md)
+[https://github.com/suvarnakanti99/suvarnakanti99.github.io/blob/main/README.md](https://github.com/suvarnakanti99/suvarnakanti99.github.io/blob/main/README.md)
 
 \pagebreak
 
@@ -31,22 +30,21 @@ The below source code displays the information and navigation bar information , 
 
 
 
-![About and intro](images/1.png)
 
-![Code of page content](images/2.png)
+
 
 
 \pagebreak
 
-![Portfolio View](images/3.png)
 
-![Portfolio View](images/4.png)
+
+
 
 \pagebreak
 
 The link with WAPH coursework will take you to the detailed coursework done by us in labs and recent hackathon.
 
-![WAPH coursework](images/5.png)
+
 
 
 \pagebreak
@@ -69,13 +67,12 @@ The portfolio now includes a Google Analytics page tracker, enabling the monitor
 </script>
 
 ```
-![google page tracker](images/6.png)
 
 \pagebreak
 
 This portfolio is crafted using a combination of HTML, CSS, Bootstrap framework, JavaScript, and React library. These technologies work together to create a cohesive and dynamic user experience. HTML and CSS provide the foundational structure and styling, while Bootstrap ensures responsive design and layout consistency across devices. JavaScript adds interactivity and dynamic elements, enhancing user engagement. Integrating the React library further enhances the portfolio's functionality, allowing for efficient management of content and seamless navigation. Together, this tech stack forms the backbone of the portfolio, enabling the effective presentation of skills and experiences.
 
-![Resume section font styling](images/7.png)
+
 
 \pagebreak
 
@@ -119,7 +116,7 @@ setInterval(displayJoke, 60 * 1000);
 \pagebreak
 
 
-There is a weather widget code which displays the weathe forcatsing of cincinnati.
+There is a weather widget code which displays the weathe forcatsing of current living city.
 
 ```JS
 
@@ -146,7 +143,6 @@ There is a weather widget code which displays the weathe forcatsing of cincinnat
 
 
 
-![weather widget](images/8.png)
 
 \pagebreak
 
@@ -231,5 +227,5 @@ function setCookie(name, value, expiryDays) {
 </script>
 ```
 
-![Utilizing cookies to remember the User](images/9.png)
+
 
