@@ -10931,7 +10931,7 @@ p.lead {
   justify-content: center;
   height: 3.5rem;
   width: 3.5rem;
-  background-color: #C8C8C8;
+  background-color: #FFFFFF;
   color: #1171ba;
   border-radius: 100%;
   font-size: 1.5rem;
@@ -10941,7 +10941,7 @@ p.lead {
   margin-right: 0;
 }
 .social-icons .social-icon:hover {
-  background-color: #bd5d38;
+  background-color: #787878;
 }
 
 .dev-icons {
